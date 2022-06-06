@@ -15,7 +15,7 @@ function addHandler(text) {
 
 <template>
   <div class="hint">
-    Right-click to delete, left-click to mark as done
+    Right click to delete, left click to mark as done
     <AddTodo @add="addHandler"/>
   </div>
   <TodoList ref="todoList" />
