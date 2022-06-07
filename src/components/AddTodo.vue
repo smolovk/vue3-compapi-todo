@@ -38,5 +38,6 @@ input {
     color: #ECF0F1;
     background: #3498DB;
     border: 0;
+    padding: 5px;
 }
 </style>

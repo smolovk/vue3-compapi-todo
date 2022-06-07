@@ -45,6 +45,14 @@ button {
   background: #27AE60;
 }
 
+.done:hover {
+  background: #2ECC71;
+}
+
+.done:hover::before {
+  background: #2ECC71;
+}
+
 .delete {
   background: #C0392B;
   opacity: 0;
